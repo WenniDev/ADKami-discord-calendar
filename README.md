@@ -13,4 +13,4 @@ npm install --save cheerio axios discord.js @discordjs/rest discord-api-types
 ```
 
 ## Example
-![Screen example](https://sc.hololive.fr/wo7bIeKtG1.png)
+![Screen example](https://sc.hololive.fr/WBn4pa3t22.png)

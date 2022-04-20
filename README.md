@@ -11,3 +11,6 @@ Use the package manager [npm](https://www.npmjs.com).
 ```bash
 npm install --save cheerio axios discord.js @discordjs/rest discord-api-types
 ```
+
+## Example
+![Screen example](https://sc.hololive.fr/wo7bIeKtG1.png)
